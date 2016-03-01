@@ -1,5 +1,5 @@
-Peak to peak difference (s),frequency,Cursor 1 time,Cursor 2 time,
-2.08E-07,2.01MHz,-3.50E-07,-1.42E-07,
+Peak to peak difference (s),frequency,Cursor 1 time,Cursor 2 time,Note
+2.08E-07,2.01MHz,-3.50E-07,-1.42E-07,Uncertainty seems to have increased with the greater distance
 1.88E-07,2.23MHz,-3.20E-07,-1.32E-07,
 1.80E-07,2.42MHz,-2.86E-07,-1.06E-07,
 1.74E-07,2.60MHz,-2.62E-07,-8.80E-08,

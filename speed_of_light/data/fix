@@ -1,0 +1,4 @@
+#! /bin/bash
+
+cat Data\ -\ $1ft.csv | sed 's/MHz//' > data_$1ft.csv
+
